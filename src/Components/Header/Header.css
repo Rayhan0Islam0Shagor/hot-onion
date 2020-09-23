@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.input-field{
+    display: inline-block !important;
+    width: 500px !important;
+
+}
+
+.banner{
+    height: 70vh;
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+}
+.banner2{
+    background-image: url(../images/bannerbackground.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+}
+
+
